@@ -1,3 +1,0 @@
-*.cpp filter=utf8-convert text eol=lf
-*.h filter=utf8-convert text eol=lf
-*.hpp filter=utf8-convert text eol=lf
