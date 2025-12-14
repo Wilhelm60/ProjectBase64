@@ -1,10 +1,3 @@
-# Указываем, что все текстовые файлы имеют кодировку UTF-8
-*.cpp text charset=utf-8
-*.h text charset=utf-8
-*.hpp text charset=utf-8
-*.c text charset=utf-8
-
-# Для бинарных файлов
-*.bin binary
-*.exe binary
-*.dll binary
+*.cpp filter=utf8-convert text eol=lf
+*.h filter=utf8-convert text eol=lf
+*.hpp filter=utf8-convert text eol=lf
