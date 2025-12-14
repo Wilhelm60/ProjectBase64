@@ -1,2 +1,10 @@
-*.cpp text working-tree-encoding=windows-1251
-*.h text working-tree-encoding=windows-1251
+# Указываем, что все текстовые файлы имеют кодировку UTF-8
+*.cpp text charset=utf-8
+*.h text charset=utf-8
+*.hpp text charset=utf-8
+*.c text charset=utf-8
+
+# Для бинарных файлов
+*.bin binary
+*.exe binary
+*.dll binary
