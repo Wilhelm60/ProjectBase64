@@ -11,5 +11,6 @@ Base64 Encoder/Decoder
 
 P.S.
 При создании проекта был создан пустой проект CLR (.NET Framework)
+
 Добавлен элемент Visual C++ -> ИП -> "Форма Windows Forms" - это стало в будущем WinForm.h
 Путь к библиотеке Boost в C/C++ в общем прописан так: $(SolutionDir)libs\boost_1_90_0;
